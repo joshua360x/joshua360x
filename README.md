@@ -64,6 +64,22 @@ Here are some ideas to get you started:
 ✔ Ask me anything you want, but I prefer virtual coffee<br>
 ✔ Hobbies : *Outisde of Coding, I can be spotted in the park singing and writing new songs* 😎<br><br><br><br>
 
+
+<h2 dir="auto"><a id="user-content-projects" class="anchor" aria-hidden="true" href="#projects"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Projects</h2>
+<p dir="auto">🏋 Swork Out  🏋️‍♀️<a href="https://github.com/clayton-knapp/swork-out-timer">GitHub Repo</a> | <a href="https://clayton-knapp.github.io/swork-out-timer/" rel="nofollow">Hosted Here</a> | <a href="https://replay.dropbox.com/share/UU2uPkfE9H0616Bw?video_version_id=pid_rvv%3AAAAAACArBwDL8NGeH2xMFGpb2bmKT7-eSTEf8wZ4wSk1sWke" rel="nofollow">Video Demo</a></p>
+<ul dir="auto">
+<li>FullStack Workout Application allows users to create an account and gives them an opportunity to create, store, and delete workouts.</li>
+<li>This application is great for those who work from home and want to implement a short workout routine within this growing remote world </li>
+<li>(Built with Vanilla JS); Had the opportunity of working on the create a workout page and also orchestrated a SQL junction table with supabase</li>
+</ul>
+<p dir="auto"><g-emoji class="g-emoji" alias="beer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f37a.png">🎵</g-emoji> <g-emoji class="g-emoji" alias="dog2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f415.png"></g-emoji> Tunify 🎵 <a href="https://github.com/joshua360x/name-that-tune">GitHub Repo</a> | <a href="https://tunify-5fb407.netlify.app/" rel="nofollow">Hosted Here</a> |  <a href="https://replay.dropbox.com/share/ZvRD4GHeFztiDwDy?video_version_id=pid_rvv%3AAAAAAIo5mLuh5JB1uoN3SKV3Xp-kAyDOPOfFtppWru-Nu4eG" rel="nofollow">Video Demo</a></p>
+<ul dir="auto">
+<li>FullStack Game Application that takes full use of the Spotify API</li>
+<li>Users have the ability to sign in and choose from a select group of playlists and earn points through a series of rounds with built in-game logic that will ensure a great time for every family and friends gathering</li>
+<li>(Built with React JS); Had the opportunity of working on the leaderboard and OAUTH with the Spotify API</li>
+</ul>
+
+
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
