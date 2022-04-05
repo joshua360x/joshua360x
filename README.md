@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 <li>(Built with React JS); Had the opportunity of working on the leaderboard and OAUTH with the Spotify API</li>
 </ul>
 
+<br><br>
 
 ## 🛠️ My Skills
 
