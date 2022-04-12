@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <p dir="auto"><g-emoji class="g-emoji" alias="beer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f37a.png">🎵</g-emoji> <g-emoji class="g-emoji" alias="dog2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f415.png"></g-emoji> Tunify 🎵 <a href="https://github.com/joshua360x/name-that-tune">GitHub Repo</a> | <a href="https://tunify-5fb407.netlify.app/" rel="nofollow">Hosted Here</a> |  <a href="https://replay.dropbox.com/share/ZvRD4GHeFztiDwDy?video_version_id=pid_rvv%3AAAAAAIo5mLuh5JB1uoN3SKV3Xp-kAyDOPOfFtppWru-Nu4eG" rel="nofollow">Video Demo</a></p>
 <ul dir="auto">
 <li>FullStack Game Application that takes full use of the Spotify API</li>
-<li>Users have the ability to sign in and choose from a select group of playlists and earn points through a series of rounds with built in-game logic that will ensure a great time for every family and friends gathering</li>
+<li>Users have the ability to sign in and choose from a select group of playlists and earn points through a series of rounds with built in-game logic that will ensure a great time for every friends and family gathering</li>
 <li>(Built with React JS); I had the opportunity of working on the leaderboard page, the OAUTH with the Spotify API, and the Game page</li>
 </ul>
 
